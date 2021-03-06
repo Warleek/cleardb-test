@@ -6,6 +6,9 @@ import javax.persistence.*;
 @Table(name = "user")
 public class User {
 
+    @Version
+    public Long version;
+
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
