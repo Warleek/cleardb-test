@@ -1,1 +1,1 @@
-web: java -jar target/dataCollector.jar
+web: java -jar target/cleardb-0.0.1-SNAPSHOT.jar
