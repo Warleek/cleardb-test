@@ -14,7 +14,7 @@
     <name>cleardb</name>
     <description>Test of clearDB limit</description>
     <properties>
-        <java.version>15</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
